@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: black;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+li{
+  color:white;
+  display: block;
+  text-decoration: none;
+    border-top: solid 1px #039;
+    float: left;
+    padding-left:50px;
+    background-color: ;
+}
+ul#navigation li{
+  list-style: none;
+  color:white;
+  border-top: solid color 1px #039;
+    text-align: left;
+    margin: 0;
+}
+
+h1{
+ color:red;
+ font-size: 3em;
+}
+body{
+  background-color: black;
+}
+.nav{
+  list-style: none;
+  margin-left: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+p{
+  color:blue;
+text-align:center;
+padding-left: 460px;
+
+}
+div right{
+  padding:20px;
+  color:red;
+}
+div left{
+padding-left: 20px;
+}
+img{
+  padding-left: 460px;
+}
